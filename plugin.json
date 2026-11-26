@@ -1,0 +1,15 @@
+{
+  "schema": 3,
+  "kind": "character_profiles",
+  "id": "character",
+  "version": "0.1.0",
+  "name": {
+    "en": "Download Characters",
+    "zh": "下载角色"
+  },
+  "description": {
+    "en": "Create and reuse download roles with engine, device, language and storage preferences.",
+    "zh": "通过 AI 创建可复用的下载角色，记住引擎、设备、语言和保存目录。"
+  },
+  "skill": "SKILL.md"
+}
